@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Fred Xu
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:fred_xu@outlook.com
+  text: fred_xu@outlook.com
+phone:
+  url: 18101807700
+  text: 18101807700
 ---
 
-# Wode **Ni**
+# Fred **Xu**
 
 <!--
 include contact information from the front matter
